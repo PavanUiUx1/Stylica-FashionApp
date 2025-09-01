@@ -13,4 +13,4 @@ Currently working on homepage, product listing & login/signup pages.
 
 ## 🛠️ Tools
 - Figma  
-- HTML / CSS / JS (future)  
+
